@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+.div1 {
+    background-color: red;
+    width: 50%;
+    height: 55%;
+    position: absolute;
+    left: 0;
+}
+
+.div2 {
+    background-color: blue;
+    width: 50%;
+    height: 45%;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
